@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch in Git is a movable pointer which allows to organise project development efficiently and safely. It allows to separately keep different versions of a project or extra files that we do not want to have merged into the main version of project yet. Also, when merging branches we can review conflicting changes to ensure that we keep the version we want. 
