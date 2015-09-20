@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Cloning copies the repository (someone else’s or our own) and creates a new repository where we specify, which is identical to the copied repo. It copies commits from the original repository, but it does not copy branches. We can always add changes to the cloned repo from the orginal repo when new commits are made there, but fetching commits does not automatically add them to the cloned repo’s local branches, we have to merge them.
